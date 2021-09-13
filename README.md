@@ -8,7 +8,7 @@ You use optionals in situations where a value may be absent. An optional represe
 
 ## About My Implementation
 
-Here is my own **_Swift Optional Type Implementing_** and some its functionality such as **_Force Unwrapping_**, **_Optional Chaining_** and **_implified Initialization_** with some examples of all it
+Here is my own **_Swift Optional Type Implementing_** and some its functionality such as **_Force Unwrapping_**, **_Optional Chaining_** and **_Simplified Initialization_** with some examples of all it
 
 ---
 
