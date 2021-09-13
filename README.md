@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You use optionals in situations where a value may be absent. An optional represents two possibilities: Either there is a value of explicitly or implicitly defined type, and you can unwrap the optional to access that value, or there isn’t a value at all. In Swift only optionals can have a *nil* value(that is a representation of value absence).
+You use optionals in situations where a value may be absent. An optional represents two possibilities: Either there is a value of explicitly or implicitly defined type, and you can unwrap the optional to access that value, or there isn’t a value at all.  In Swift only optionals can have a *nil* value(that is a representation of value absence).
 
 ## About My Implementation
 
