@@ -13,4 +13,4 @@ I implemented **Optionals** with Swift **Enum**, where _.none_ is _nil_ and _opt
 Also I simplified initialization - you don't need to write **_=Optional(someValue)_**, instead you can just use _"<-"_ symbol.  
 You can see some examples in my code if something remains unclear to you.
 ## References
-[Optionals](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [Optionals](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
