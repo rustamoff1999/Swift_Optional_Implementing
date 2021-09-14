@@ -14,3 +14,6 @@ Also I simplified initialization - you don't need to write **_=Optional(someValu
 You can see some examples in my code if something remains unclear to you.
 ## References
 * [Optionals](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
+## Contacts
+* [Linkedin](https://www.linkedin.com/in/fuad-rustamov-8133b4190/)
